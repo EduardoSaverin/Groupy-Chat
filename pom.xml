@@ -11,7 +11,7 @@
 	<groupId>com.digital.code</groupId>
 	<artifactId>Chat</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>Chat</name>
 	<description>Group Chat made using Websocket (STOMP),comet,long-polling</description>
 
